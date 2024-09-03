@@ -1,8 +1,3 @@
-+++
-title = 'Pizzadeig'
-date = 2024-09-03T10:43:08+02:00
-draft = false
-+++
 
 ## Introduksjon
 
