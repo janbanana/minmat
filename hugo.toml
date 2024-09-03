@@ -1,12 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://janbanana.github.io/minmat/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Minmat'
 theme = 'plague'
 
 [params]
-  siteHeaderText = "Ellingson Mineral Tech Blog"
+  siteHeaderText = "Minmat"
   siteFooterText = "Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianreumere/plague) theme."
   colors = "default"
 
   [params.hcard]
-    fullName = "Eugene Belford"
+    fullName = "Jan"
