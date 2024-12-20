@@ -3,6 +3,8 @@
 
 Denne pizzadeigen er hentet fra [italianinoslo.no](https://www.italianinoslo.no/alt-jeg-vet-om-pizza/pizzadeig)
 
+For 4stk pizzadeiger
+
 ## Ingredienser
 
 * 1000g hvetemel - Du kan vel bruke 100% hvetemel, men gjerne bland 300gr hvetemel tipo "00"
